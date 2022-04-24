@@ -1,0 +1,10 @@
+scale: Fm
+
+verse: 1 7 6 4
+chorus: 1 4 (3...) 7 5 1
+
+
+reggae:
+   1.  5 4 1 (F Dorian)
+   2.  1 5 5 4 4 4 1^6
+instrumental: 1
